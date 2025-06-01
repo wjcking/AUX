@@ -1,3 +1,6 @@
+N-U
+N-U
+
 MDY.NDS
 SRKO~IKLIPS
 SWOV^IT
@@ -6,7 +9,7 @@ SWOV^IT
   IMAZH:PRAO:ZKET "project
   IKO.LAO.KASHN:SONAR "echo location
   KST.NZD@TZH
-  
+
   //ITLR\ITX\LST\LUK
   $TUK~HLX
   $LUK~LXR
