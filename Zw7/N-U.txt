@@ -20,7 +20,7 @@ n++&
 
   A A A A A A
   -----------
-  =& z^nnl l=
+  =& ^znl l=
   -----------
   V V V V V V
 
