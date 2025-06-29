@@ -1,8 +1,11 @@
 v^zs
 r-vkr.nks.exch~xlk
 
-vrsk.v~d ,rtc *p~^
+vrsk ,rtc *p~^
+lnst ,+~1^
 
 $~^
+&_'*
+
 '+7-l
 #z--ж^*
